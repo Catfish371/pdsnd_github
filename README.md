@@ -1,5 +1,5 @@
 ### Date created
-12/31/2019
+01/10/2020
 
 ### Project Title
 Bikeshare Project Title
@@ -8,6 +8,7 @@ Bikeshare Project Title
 Ananysis of shared bike program data for more effective fleet deployment.
 The analysis closely tracked with that done for IIT in 2018.
 This is a third comment made to satisfy the requirement
+Changed the date above to reflect today's date
 
 ###
 Note that the comments in the Python file reflect the appropriate statistical term for the most common response: mode
