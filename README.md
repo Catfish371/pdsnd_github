@@ -5,7 +5,8 @@
 Bikeshare Project Title
 
 ### Description
-Ananysis of shared bike program data for more effective fleet deployment
+Ananysis of shared bike program data for more effective fleet deployment.
+The analysis closely tracked with that done for IIT in 2018.
 
 ### Files used
 bikeshare_2.py
