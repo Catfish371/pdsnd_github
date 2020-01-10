@@ -9,6 +9,9 @@ Ananysis of shared bike program data for more effective fleet deployment.
 The analysis closely tracked with that done for IIT in 2018.
 This is a third comment made to satisfy the requirement
 
+###
+Note that the comments in the Python file reflect the appropriate statistical term for the most common response: mode
+
 ### Files used
 bikeshare_2.py
 chicago.csv
